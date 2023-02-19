@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: React, Sass and deepening my knowledge of .Net
 
-- 🚀 In the future I want to: Learn more about Linux, Docker, Kubernetes, and about Cloud Technologies
+- 🚀 In the future I want to: Learn more about Linux, Docker, Kubernetes and Cloud Technologies
 
 
 
