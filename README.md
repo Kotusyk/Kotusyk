@@ -1,11 +1,10 @@
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
 <h1 align="center"> Hi, I'm Anna ✌️ </h1>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <h4 align="center">Trainee C#/.Net programmer </h4>
 
-- 🌱 I’m currently learning: React and deepening my knowledge of .Net and SQL
+- 🌱 I’m currently learning: .Net MAUI and deepening my knowledge of .Net and SQL
 
-- 🚀 In the future I want to: Learn more about Linux, Docker, Kubernetes and Cloud Technologies
+- 🚀 In the future I want to: Learn more about Linux, Docker,</br> Kubernetes and Cloud Technologies
 
 
 
