@@ -3,7 +3,7 @@
 <h1 align="center"> Hi, I'm Anna ✌️ </h1>
 <h4 align="center">Trainee C#/.Net programmer </h4>
 
-- 🌱 I’m currently learning: React and deepening my knowledge of .Net and SQL
+- 🌱 I’m currently learning: .Net MAUI and deepening my knowledge of .Net and SQL
 
 - 🚀 In the future I want to: Learn more about Linux, Docker, Kubernetes and Cloud Technologies
 
